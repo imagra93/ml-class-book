@@ -15,5 +15,5 @@ Un mini-libro de Machine Learning (contenido de ejemplo) para probar GitHub Page
 2. [Fundamentos](./introduccion/)
    - [Álgebra lineal mínima](./introduccion/)
    - [Probabilidad y estadística](./introduccion/)
-
+3. [Linear regression](./linear_regression/)
 > Tip: con Just the Docs tendrás también un “índice” en el menú lateral automáticamente.
