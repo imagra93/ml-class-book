@@ -1,0 +1,12 @@
+title: "ML Class Book"
+description: "Mini-libro (demo) de Machine Learning para GitHub Pages"
+lang: es-ES
+
+# Opción recomendada para GitHub Pages sin líos: remote_theme
+remote_theme: just-the-docs/just-the-docs
+
+url: "https://imagra93.github.io"
+baseurl: "/ml-class-book"
+
+search_enabled: true
+heading_anchors: true
